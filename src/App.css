@@ -1,0 +1,9 @@
+.addContactHeader {
+  width: 500px;
+  margin: auto;
+}
+.addContactDiv {
+  width: 500px;
+  background-image: url("./bgd.jpg");
+  background-size: cover;
+}
